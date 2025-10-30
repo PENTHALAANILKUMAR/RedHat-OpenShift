@@ -1,7 +1,7 @@
 Red Hat has decided to rename Red Hat OpenShift Container Engine to Red Hat OpenShift Kubernetes Engine to better communicate what value the product offering delivers.
 Red Hat OpenShift Kubernetes Engine is a product offering from Red Hat that lets you use an enterprise class Kubernetes platform as a production platform for launching containers. You download and install OpenShift Kubernetes Engine the same way as OpenShift Container Platform as they are the same binary distribution, but OpenShift Kubernetes Engine offers a subset of the features that OpenShift Container Platform offers.
 
-**4.1.1. Core Kubernetes and container orchestration **
+**4.1.1. Core Kubernetes and container orchestration**
 
 OpenShift Kubernetes Engine offers full access to an enterprise-ready Kubernetes environment that is easy to install and offers an extensive compatibility test matrix with many of the software elements that you might use in your data center.
 
